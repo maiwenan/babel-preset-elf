@@ -1,0 +1,22 @@
+{
+  "name": "@elf/babel-preset-elf",
+  "version": "1.0.0",
+  "description": "babel-preset-elf for elf-scripts",
+  "main": "index.js",
+  "keywords": [
+    "elf",
+    "cli"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@babel/plugin-proposal-decorators": "^7.6.0",
+    "@babel/preset-env": "^7.6.2",
+    "@babel/preset-react": "^7.6.3",
+    "@vue/babel-preset-jsx": "^1.0.0",
+    "core-js": "^2.6.9"
+  },
+  "author": "",
+  "license": "MIT"
+}
